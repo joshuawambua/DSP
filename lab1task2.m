@@ -1,22 +1,10 @@
 
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%
-%%
 
-
-
-
+%EET 3370: DIGITAL SIGNAL PROCESSING
+%LAB 1.
+%GROUP MEMBERS:
+%1. JOSHUA MUTHENYA WAMBUA EG209/109705/22
+%2. AKALA DALVAN EG209/109726/22
 
 
 %task 2
