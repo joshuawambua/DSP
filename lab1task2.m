@@ -20,10 +20,10 @@ t = n/Fs;
 % Original discrete signal
 x = 10*cos(250*pi*t + deg2rad(60)) + 5*sin(200*pi*t + deg2rad(75));
 
-% Upsample by 3
+% Upsampled by 3
 x_up = upsample(x, 3);
 
-% Downsample the upsampled signal by 4
+% Downsampled the upsampled signal by 4
 x_down = downsample(x_up, 4);
 
 % Time vectors for plotting
